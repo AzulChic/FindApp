@@ -1,0 +1,91 @@
+body {
+	padding-top: 90px;
+	font-family: 'Josefin Sans';
+	font-size: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 700;
+}
+
+/* header */
+
+nav {
+	padding: 1%;
+}
+
+.navbar-brand {
+	font-size: 2em;
+	font-weight: 700;
+}
+
+/* index */
+
+a, a:hover, a:focus, a:active {
+	color: #fff;
+	text-decoration: none;
+}
+
+#descargar {
+	line-height: 2.5;
+}
+
+#descargar h1 {
+	font-family: 'Amaranth';
+	font-size: 4em;
+	font-weight: 700;
+}
+
+p a, p a:hover, p a:focus, p a:active {
+	color: #2996cc;
+}
+
+.btn {
+	padding: 10px 30px;
+	font-size: 20px;
+}
+
+.content {
+	padding: 10% 30%;
+}
+
+.media-body {
+	padding: 40% 2%;
+}
+
+/* who we are */
+
+.col-sm-6 {
+	padding: 5%;
+}
+
+/* unete */
+
+.unete {
+	padding: 5% 20%;
+}
+
+.input-group {
+	margin: 1% auto;
+}
+
+.form-control {
+	color: #000;
+	background: rgba(255, 255, 255, 0.5);
+	margin: 2% auto;
+}
+
+button {
+	margin: 2% 0;
+}
+
+/* footer */
+
+footer {
+	width: 100%;
+	background: #222;
+	padding: 1% 0px;
+	color: #fff;
+	position: fixed;
+	bottom: 0px;
+}
